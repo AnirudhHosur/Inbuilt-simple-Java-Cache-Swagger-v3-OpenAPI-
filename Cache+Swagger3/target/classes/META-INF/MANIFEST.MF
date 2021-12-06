@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Derby
+Implementation-Version: 1
+Built-By: ahosur
+Implementation-Vendor-Id: com.ofss
+Build-Jdk: 1.8.0_311
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Derby
+Created-By: Maven Integration for Eclipse
+
